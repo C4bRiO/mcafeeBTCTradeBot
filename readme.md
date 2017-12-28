@@ -7,22 +7,7 @@ Support for more exchanges coming soon!
 Feel free to send me a Bitcoin Cash donation here (1NLkGPnNbT9iCJ35U9UfsURANtYgNREVtq)
 or email me if you want to send me something else and I will respond with an address.
 
-I am looking for Binance api keys + Bittrex api keys, (they need to have $10 of btc on it for testing purposes since I cant register. I can offer bot #2 for free in exchange for it
-
-Bot #1 w/ Image Detection:
-  - Has the ability to pull the text from an image and will buy based off the text inside the image
-  - Support for Binance + Bittrex will be added once I get the API keys
-  - Already has poloniex support
-  - Includes bot #2
-  - Send me an email for the cost.
-
-Bot #2
-  - Supports poloniex
-  - Will support Binance + Bittrex once I get API keys (see line 10 in readme).
-  - Waits for user input and sends a buy request once you type in altcoin.
-  - Example: 'Image says SHIT (shitcoin x), so you type in SHIT and it will purchase specified amounts of SHIT on the exchanges you have set up.
-  - Sends faster than you would if you saw image and had to open up exchange, find pairs, and manually send buy order
-  - $40 donation to a 501c3 nonprofit of my choice.
+BOT WILL BE FREE(feel free to donate a bit), and open source. Just a bummer no one is contributing to open issues :/
 
 How to use:
 
